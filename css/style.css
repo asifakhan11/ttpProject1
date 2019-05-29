@@ -1,7 +1,14 @@
 /* ################
   INDEX PAGE
 ################  */
-
+#welcome-section{
+    height: 100vh;
+    width: 100%;
+    /* placeholder image */
+    background-image: url("../images/placeholder.png");
+    background-size: cover;
+    background-position: center;
+}
 
 
 
