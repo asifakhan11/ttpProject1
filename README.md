@@ -1,6 +1,6 @@
-#TTP Group Assignment
+# TTP Group Assignment #
 
-#Assignment:  
+## Assignment: ## 
 Choose a cause that your group really cares about and put together a small informational website
 using HTML/CSS trying to convince people to donate to or help this cause. This site should be
 2-3 pages and look as professional as possible using modern design trends. Research similar
@@ -12,7 +12,7 @@ Throughout this workshop, each teammate should be communicating often and using 
 effectively. Remember no one should be working off Master so create branches, resolve merge
 conflicts, and create and close issues.
 
-#Grading Criteria:    
+## Grading Criteria:  ##  
 ● HTML is formatted properly  
 ● CSS is formatted properly  
 ● At least 2-3 pages  
