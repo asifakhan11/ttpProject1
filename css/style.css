@@ -10,6 +10,37 @@
     background-position: center;
 }
 
+/* navbar */
+.page-active{
+    color: #fff !important;
+    text-decoration: underline;
+}
+
+
+/* donation */
+#donation-section{
+    
+}
+
+#other-pages-section{
+    background-color: #d2edff;
+}
+/* footer */
+.footer-links-container a{
+    color: white;
+}
+.footer-links-container ul{
+    list-style-type: none;
+    text-decoration: underline;
+}
+.footer-links-container{
+    background-color: #000;
+}
+
+.copyright-container{
+    background-color: #000;
+}
+
 
 
 
